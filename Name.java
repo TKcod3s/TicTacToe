@@ -20,7 +20,5 @@ public class Name {
         Scanner input = new Scanner(System.in);
         int index = input.nextInt();
 
-        poop
-
     }
 }
